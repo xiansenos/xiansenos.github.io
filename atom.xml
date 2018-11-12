@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>仙森博客</title>
+  <title>im博客</title>
   
-  <subtitle>仙森淘客</subtitle>
+  <subtitle>im博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.taokefanli.vip/"/>
@@ -10,7 +10,7 @@
   <id>http://www.taokefanli.vip/</id>
   
   <author>
-    <name>yimi</name>
+    <name>im</name>
     
   </author>
   
