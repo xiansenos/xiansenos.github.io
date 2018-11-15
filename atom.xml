@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>im博客</title>
   
-  <subtitle>im博客</subtitle>
+  <subtitle>即遍体鳞伤，任独自前行！</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.imfanli.com/"/>
-  <updated>2018-11-15T07:31:33.448Z</updated>
+  <updated>2018-11-15T12:16:17.217Z</updated>
   <id>http://www.imfanli.com/</id>
   
   <author>
@@ -15,6 +15,22 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2018.11.15bee</title>
+    <link href="http://www.imfanli.com/2018-11-15bee.html"/>
+    <id>http://www.imfanli.com/2018-11-15bee.html</id>
+    <published>2018-11-15T12:16:17.000Z</published>
+    <updated>2018-11-15T12:16:17.217Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="测试" scheme="http://www.imfanli.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>1211我</title>
