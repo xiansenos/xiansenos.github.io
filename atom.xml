@@ -5,9 +5,9 @@
   <subtitle>im博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.taokefanli.vip/"/>
+  <link href="http://www.imfanli.com/"/>
   <updated>2018-11-07T08:40:28.594Z</updated>
-  <id>http://www.taokefanli.vip/</id>
+  <id>http://www.imfanli.com/</id>
   
   <author>
     <name>im</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>1211我</title>
-    <link href="http://www.taokefanli.vip/test.html"/>
-    <id>http://www.taokefanli.vip/test.html</id>
+    <link href="http://www.imfanli.com/test.html"/>
+    <id>http://www.imfanli.com/test.html</id>
     <published>2018-10-30T07:05:54.000Z</published>
     <updated>2018-11-07T08:40:28.594Z</updated>
     
@@ -36,15 +36,15 @@
     
     </summary>
     
-      <category term="淘宝客" scheme="http://www.taokefanli.vip/categories/%E6%B7%98%E5%AE%9D%E5%AE%A2/"/>
+      <category term="淘宝客" scheme="http://www.imfanli.com/categories/%E6%B7%98%E5%AE%9D%E5%AE%A2/"/>
     
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.taokefanli.vip/hello-world.html"/>
-    <id>http://www.taokefanli.vip/hello-world.html</id>
+    <link href="http://www.imfanli.com/hello-world.html"/>
+    <id>http://www.imfanli.com/hello-world.html</id>
     <published>2018-10-30T05:43:18.642Z</published>
     <updated>2018-10-30T05:43:18.642Z</updated>
     
